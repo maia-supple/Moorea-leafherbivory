@@ -1,0 +1,81 @@
+damage_type,occurances,num_plant,new_score,Lab_score,Herb_type
+DT01,864,12,1,1,hole feeding
+DT02,165,12,1,1,hole feeding
+DT03,292,12,1,1,hole feeding
+DT04,8,4,1,1,hole feeding
+DT05,115,12,1,1,hole feeding
+DT06,8,2,2,2,hole feeding
+DT07,1,1,3,1,hole feeding
+DT08,4,3,2,2,hole feeding
+DT09,3,3,2,2,hole feeding
+DT51,4,4,1,2,hole feeding
+DT57,1,1,3,2,hole feeding
+DT63,4,3,2,2,hole feeding
+DT64,5,5,1,2,hole feeding
+DT68,1,1,3,3,hole feeding
+DT78,2,2,2,1,hole feeding
+DT12,917,12,1,1,margin feeding
+DT13,267,12,1,1,margin feeding
+DT14,17,9,1,1,margin feeding
+DT15,72,10,1,2,margin feeding
+DT81,32,9,1,1,margin feeding
+DT16,75,8,1,1,skeletonization
+DT17,1,1,3,1,skeletonization
+DT20,1,1,3,2,skeletonization
+DT24,6,2,2,2,skeletonization
+DT61,8,2,2,3,skeletonization
+DT79,2,1,3,2,skeletonization
+DT25,8,3,2,2,surface feeding
+DT29,817,12,1,1,surface feeding
+DT30,143,12,1,1,surface feeding
+DT31,1,1,3,1,surface feeding
+DT46,149,10,1,3,piercing & sucking
+DT47,19,3,2,3,piercing & sucking
+DT48,2,1,3,3,piercing & sucking
+DT128,1,1,3,3,piercing & sucking
+MDT06,20,1,3,N/A,piercing & sucking
+DT54,1,1,3,3,oviposition
+DT67,5,2,2,3,oviposition
+DT76,3,3,2,1,oviposition
+DT100,1,1,3,2,oviposition
+DT101,45,4,1,2,oviposition
+DT102,9,1,3,2,oviposition
+MDT04,6,1,3,N/A,oviposition
+MDT05,8,1,3,N/A,oviposition
+MDT07,3,2,2,N/A,oviposition
+DT32,398,12,1,2,galling
+DT33,2,2,2,3,galling
+DT34,7,5,1,2,galling
+DT52,27,3,2,3,galling
+DT62,1,1,3,3,galling
+DT84,3,2,2,3,galling
+DT85,4,2,2,3,galling
+DT116,9,3,2,3,galling
+DT119,3,2,2,3,galling
+DT122,1,1,3,3,galling
+DT125,1,1,3,3,galling
+DT127,1,1,3,3,galling
+DT144,4,2,2,2,galling
+DT145,6,4,1,1,galling
+DT146,1,1,3,1,galling
+DT147,2,2,2,1,galling
+DT35,65,12,1,3,mining
+DT36,187,12,1,3,mining
+DT37,3,1,3,3,mining
+DT41,49,4,1,3,mining
+DT42,1,1,3,3,mining
+DT43,2,1,3,3,mining
+DT45,109,3,2,3,mining
+DT59,1,1,3,3,mining
+DT66,16,7,1,3,mining
+DT69,60,8,1,3,mining
+DT90,5,3,2,3,mining
+DT104,2,1,3,3,mining
+DT109,15,3,2,NA,mining
+DT131,1,1,3,3,mining
+DT58,1,1,3,1,fungal
+MDT01,216,3,2,N/A,fungal
+MDT02,41,1,3,N/A,fungal
+MDT03,8,1,3,N/A,fungal
+DT106,1,1,3,1,
+Undamaged,461,12,-,-,
